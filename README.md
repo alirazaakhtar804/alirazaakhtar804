@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+here!+👋;+I'm+Ali+Raza!;+Experienced+Web+App+Developer!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+here!+👋;+I'm+Ali+Raza!;+Experienced+Web+App+Developer!;" />
 </h1>
 <div align="center"> <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif"> </div>
 <h3 align="center"><strong>Experienced Full Stack Developer specializing in NodeJS, React, Angular, Typescript, Java and Cloud Technologies, dedicated to building innovative and efficient web solutions.</strong></h3>
